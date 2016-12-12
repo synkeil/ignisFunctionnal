@@ -1,6 +1,7 @@
 module.exports = {
   entry: {
     'iQ': __dirname+'/src/ignisQuery-functionnal.js',
+    'test': __dirname+'/src/test.js'
   },
   output:{
     path: __dirname+'/dist/',
